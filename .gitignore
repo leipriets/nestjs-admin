@@ -1,0 +1,10 @@
+#VS code local history
+.history
+
+/node_modules
+/dist
+
+.dbdata
+
+
+/test
